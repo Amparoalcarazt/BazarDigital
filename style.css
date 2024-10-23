@@ -1,0 +1,58 @@
+*{
+    /*background: radial-gradient(#FFADC3, #FFEAC3, #F7F7F7)*/
+}
+h1{
+    background-color:#FFADC3;
+    font-family: Garamond;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    padding-top:60px;
+    color: #621931;
+    font-size: 40px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color:#FFADC3;
+    color: white;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    background-color:#FFADC3;
+}
+.menu{
+    margin: 0 20px;
+    cursor: pointer;
+    display: flex;
+    color:  white;
+    font-weight: bold;
+    white-space: nowrap;
+    background-color:#FFADC3;
+    font-size: 20px;
+}
+.s1menu{
+    margin-right: 35%;
+    background-color:#FFADC3;;
+}
+.smenu{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color:#FFADC3;;
+}
+.back{
+    background: radial-gradient(#FFADC3, #FFEAC3, #F7F7F7);
+    width: auto;
+    height: 780px;
+    margin: 0;
+}
+.container{
+    position: absolute;
+    left: 39%;
+    right: 48%;
+    
+}
